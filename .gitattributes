@@ -1,0 +1,4 @@
+Bluetooth/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_ filter=lfs diff=lfs merge=lfs -text
+Bluetooth/app/build/outputs/apk/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+Bluetooth/app/build/intermediates/incremental/packageDebug/zip-cache/C0ysnlWx7gzXOBjnJgCGGhNOBMK= filter=lfs diff=lfs merge=lfs -text
+Bluetooth/app/build/intermediates/res/resources-debug.ap_ filter=lfs diff=lfs merge=lfs -text
